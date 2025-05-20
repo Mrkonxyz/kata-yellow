@@ -1,4 +1,4 @@
-package mar;
+package main.Y2025.mar;
 
 public class DateMarch15 {
     public String mergeAlternately(String word1, String word2) {
